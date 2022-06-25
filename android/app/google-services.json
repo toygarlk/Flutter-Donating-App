@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383051003233",
+    "project_id": "bagisla3-47039",
+    "storage_bucket": "bagisla3-47039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383051003233:android:40affbd7d1f589a1480120",
+        "android_client_info": {
+          "package_name": "com.bagisla4.deneme1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383051003233-h62at2bp5t2fnb2vjuu2medmali304m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC108OtBpdIL9_2pvmc74qYKPJ_zyFopU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383051003233-h62at2bp5t2fnb2vjuu2medmali304m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
